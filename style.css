@@ -20,7 +20,7 @@ body {
   width: var(--heigth);
   background-color: var(--color);
   transform: rotate(45deg);
-  box-shadow: -20px 20px 150px rgb(192, 9, 9);
+  box-shadow: -20px -20px 150px var(--color);
   animation: latir 0.5s infinite linear alternate;
 }
 .content-heart {
@@ -43,7 +43,7 @@ body {
   position: absolute;
   right: 50%;
   border-radius: 50%;
-  box-shadow: 20px 20px -150px rgb(192, 9, 9);
+  box-shadow: 20px 20px 150px var(--color);
 }
 .heart::after {
   content: "";
@@ -53,7 +53,7 @@ body {
   position: absolute;
   top: -50%;
   border-radius: 50%;
-  box-shadow: 20px 20px -150px rgb(192, 9, 9);
+  box-shadow: 20px 20px 150px var(--color);
 }
 
 @keyframes latir {
