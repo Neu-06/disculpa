@@ -11,7 +11,7 @@ const textos = [
   "no es que no aproveche la oportunidad que me estas dando",
   "intento aprovechar, pero creo que solo lo arruino todo",
   "no quiero perder esto que se empezo a formar entre nosotros",
-  "es que contigo aprendi a soñar, ilucinarme, ",
+  "es que contigo aprendi a soñar, ilucionarme, ",
   "hacer planes a futuro, contigo senti cosas,",
   "cosas que nunca antes habia sentido, cosas tan complejas",
   "que hay veces que no nose como reaccionar",
@@ -24,7 +24,7 @@ const textos = [
   "y quiero construir un futuro contigo",
   "no te quiero perder",
   "perdon si te hago daño, perdon si solo te lastimo",
-  "pero quiero ese futuro contigo",
+  "pero quiero ese futuro en el que somos felices",
   "e intento cambiar para ser digno de ese futuro contigo",
   "TE AMO",
 ];
