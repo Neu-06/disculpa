@@ -30,7 +30,7 @@ const textos = [
 ];
 
 let indice = 0;
-let reproduciendo = false;
+let repr = false;
 
 function mensaje() {
   var audio1 = new Audio("Speakers.mp3"); 
