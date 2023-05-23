@@ -30,8 +30,16 @@ const textos = [
 ];
 
 let indice = 0;
+let reproduciendo = false;
 
 function mensaje() {
+  var audio1 = new Audio("Speakers.mp3"); 
+  
+  if (!repr){
+    audio1.play();
+    repr=true;
+  } 
+  
   if (indice < textos.length) {
     h1.textContent = textos[indice];
     indice++;
